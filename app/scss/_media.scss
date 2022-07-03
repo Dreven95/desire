@@ -123,6 +123,9 @@
     .rightside-menu {
         display: none;
     }
+    .rightside-menu--close {
+        display: none;
+    }
     .menu__list-item {
         padding-left: 0;
         & + .menu__list-item {
